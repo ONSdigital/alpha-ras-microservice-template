@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * REST controller to expose the status of this service.
  * 
- * @author
+ * @author {{cookiecutter.author_name}}
  * 
  */
 @RestController

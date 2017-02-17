@@ -8,6 +8,6 @@ public class MainController {
 
   @RequestMapping(value = "/status")
   public String available() {
-    return "service is running";
+    return "{{cookiecutter.return_string}} service is running";
   }
 }

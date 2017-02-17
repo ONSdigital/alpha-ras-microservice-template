@@ -17,7 +17,7 @@ import com.fasterxml.jackson.databind.ObjectWriter;
 
 /**
  * Class representing service status.
- * @author
+ * @author {{cookiecutter.author_name}}
  * 
  */
 @Component
