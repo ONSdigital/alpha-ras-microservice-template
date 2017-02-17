@@ -1,4 +1,4 @@
-package uk.gov.ons.ras.respondent;
+package uk.gov.ons.ras.{{cookiecutter.project_name}};
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
@@ -12,7 +12,7 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 @EnableAutoConfiguration
 @ComponentScan(basePackages = {
-        "uk.gov.ons.ras.respondent" })
+        "uk.gov.ons.ras.{{cookiecutter.ComponentScan}}" })
 
 public class Application {
 
