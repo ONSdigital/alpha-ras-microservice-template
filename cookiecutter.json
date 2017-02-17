@@ -8,6 +8,7 @@
     "return_string": "Collection Instrument",
     "application_name": "collectionInstrument",
     "info_app_description":"Microservice for collection instrument",
+    "package_name":"collectionInstrument",
     "gradle_app_name":"collectionInstrument",
     "gradle_app_version":"0.0.1"
 }
